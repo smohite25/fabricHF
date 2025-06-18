@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-
+echo "Welcome in bootstrap"
 # if version not passed in, default to latest released version
 VERSION=2.5.12
 # if ca version not passed in, default to latest released version
